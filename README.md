@@ -39,4 +39,4 @@ Para iniciar digite o comando abaixo e espere a inicialização.
 ```
 
 ## Doar e Suporte
-- [Doações] - Ajude-me a criar comandos, doe algo pelo PicPay ❤️ - [Doar](https://wa.me/5562996939649)
+- Doações - Ajude-me a criar comandos, doe algo pelo PicPay ❤️ - [Doar](https://wa.me/5562996939649)
