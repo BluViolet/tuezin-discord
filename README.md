@@ -12,7 +12,7 @@
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
-### Funções (Não são todas, +130)
+### Funções (+80)
 
 | Comandos |Contém|
 | ------------- | ------------- |
